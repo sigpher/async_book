@@ -11,3 +11,4 @@ serde = { version = "*", features = ["derive"] }
 serde_json = "*"
 tokio = { version = "*", features = ["full"] }
 anyhow = "*"
+futures = "0.3.28"
